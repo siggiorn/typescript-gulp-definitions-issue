@@ -1,0 +1,18 @@
+{
+  "name": "typescript-gulp-definitions-issue",
+  "version": "1.0.0",
+  "description": "This project demonstrates a possible bug in the project `gulp-typescript` (<https://github.com/ivogabe/gulp-typescript>) when using both option `options.declaration: true` and `options.allowJs: true` together.",
+  "main": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.12.2",
+    "merge2": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
